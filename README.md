@@ -1,0 +1,2 @@
+# SparkStreamingElastic
+通过sparkstreaming流式读取elasticsearch里面的数据
